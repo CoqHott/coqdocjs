@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Fira+Sans&display=swap');
 
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 14px;
     color: #2D2D2D
 }
@@ -67,7 +67,7 @@ div:empty{ display: none;}
 }
 
 .inlinecode, .code, #main pre {
-    font-family: monospace;
+    font-family: 'Fira Code', monospace;
 }
 
 .code > br:first-child {
