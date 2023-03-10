@@ -31,7 +31,6 @@ h, h1, h2, h3, h4, h5 {
     color: black;
     text-rendering: optimizeLegibility;
     font-weight: normal;
-    letter-spacing: 0.1em;
     text-align: left;
 }
 
